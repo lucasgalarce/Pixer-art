@@ -1,0 +1,11 @@
+.grid-container {
+  display: inline-grid;
+}
+
+.grid-item {
+  border: 1px solid black;
+}
+input {
+  padding: 5px;
+  margin: 5px;
+}
